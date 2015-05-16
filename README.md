@@ -1,2 +1,2 @@
-# amvw
-Fast polynomial root finders via fast companion matrix eigensolvers
+# avw
+Polynomial root finders based on fast companion matrix eigensolvers
